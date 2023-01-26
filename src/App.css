@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient( red , yellow);
+  width: 100vw;
+  height: 100vh;
+  font-size: larger;
+  font-weight: bold;
+  overflow: hidden;
+
+}
+
+.submit{
+  width: 300px;
+  height: 40px;
+  border: 1px solid orange;
+  border-radius: 18px;
+  background-color: rgb(50, 212, 158);
+} 
+
+.freshRecord-div {
+  width: 82%;
+  height: fit-content;
+  margin-left: 8%;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  border: 2px solid purple;
+  border-radius: 7px;
+  background-color: darkgrey;
+  justify-content: space-evenly;
+}
+
+.show p{
+  width: fit-content;
+  height: 55px;
+  background-color: crimson;
+  padding: 10px;
+  border: 1px solid crimson;
+  border-radius: 10px;
+}
+
+.back{
+  width: 300px;
+  height: 40px;
+  border: 1px solid orange;
+  border-radius: 18px;
+  background-color: rgb(50, 212, 158);
+  margin-top: 12%;
+}
+
+
